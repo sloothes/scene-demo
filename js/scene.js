@@ -1,7 +1,7 @@
 //  scene.js
 
-var fontFolder = "./three/fonts/";
-var fontPath = "./three/fonts/helvetiker_regular.typeface.json";
+var fontFolder = "../three/fonts/";
+var fontPath = "../three/fonts/helvetiker_regular.typeface.json";
 
 var sceneContainerSelector = "#scene-container";
 var renderContainerSelector = "#scene-container";
