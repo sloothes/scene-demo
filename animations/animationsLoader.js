@@ -6,7 +6,7 @@
     var MaleAnimations   = {}; // object.
     var FemaleAnimations = {}; // object.
     
-    var animationsFolder = "../animations/";
+    var animationsFolder = "./animations/";
 
     function $getAnimation( options ){
 
